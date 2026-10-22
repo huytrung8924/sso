@@ -1,0 +1,210 @@
+[
+  {
+    "file": "screenshots/architecture/system-architecture.jpeg",
+    "pdf_page": 27,
+    "figure": 6,
+    "caption": "System architecture",
+    "width": 1043,
+    "height": 529
+  },
+  {
+    "file": "screenshots/overview/kibana-dashboard.jpeg",
+    "pdf_page": 39,
+    "figure": 29,
+    "caption": "Kibana dashboard",
+    "width": 1267,
+    "height": 638
+  },
+  {
+    "file": "screenshots/kerberoasting/detection-rule.jpeg",
+    "pdf_page": 42,
+    "figure": 36,
+    "caption": "Wazuh detection rule",
+    "width": 1485,
+    "height": 376
+  },
+  {
+    "file": "screenshots/kerberoasting/dashboard.jpeg",
+    "pdf_page": 44,
+    "figure": 42,
+    "caption": "Kerberoasting dashboard",
+    "width": 1755,
+    "height": 890
+  },
+  {
+    "file": "screenshots/kerberoasting/dashboard-events.jpeg",
+    "pdf_page": 44,
+    "figure": 42,
+    "caption": "Dashboard event table",
+    "width": 1919,
+    "height": 472
+  },
+  {
+    "file": "screenshots/kerberoasting/alert-detail.jpeg",
+    "pdf_page": 45,
+    "figure": 43,
+    "caption": "Kerberos event and source IP",
+    "width": 1899,
+    "height": 1013
+  },
+  {
+    "file": "screenshots/malware/fim-monitoring.jpeg",
+    "pdf_page": 45,
+    "figure": 44,
+    "caption": "FIM monitored directory",
+    "width": 1338,
+    "height": 298
+  },
+  {
+    "file": "screenshots/malware/fim-rules.jpeg",
+    "pdf_page": 46,
+    "figure": 46,
+    "caption": "File change detection rules",
+    "width": 1245,
+    "height": 324
+  },
+  {
+    "file": "screenshots/malware/active-response-config.jpeg",
+    "pdf_page": 47,
+    "figure": 48,
+    "caption": "Remove-threat active response",
+    "width": 1273,
+    "height": 430
+  },
+  {
+    "file": "screenshots/malware/response-rules.jpeg",
+    "pdf_page": 47,
+    "figure": 49,
+    "caption": "Active response result rules",
+    "width": 1242,
+    "height": 378
+  },
+  {
+    "file": "screenshots/malware/dashboard.jpeg",
+    "pdf_page": 48,
+    "figure": 52,
+    "caption": "Malware dashboard",
+    "width": 1263,
+    "height": 670
+  },
+  {
+    "file": "screenshots/malware/dashboard-events.jpeg",
+    "pdf_page": 48,
+    "figure": 52,
+    "caption": "Dashboard event table",
+    "width": 1249,
+    "height": 281
+  },
+  {
+    "file": "screenshots/malware/detection-removal.jpeg",
+    "pdf_page": 48,
+    "figure": 53,
+    "caption": "Detection and removal event timeline",
+    "width": 1906,
+    "height": 684
+  },
+  {
+    "file": "screenshots/malware/alert-detail.jpeg",
+    "pdf_page": 49,
+    "figure": 54,
+    "caption": "VirusTotal result and file removal",
+    "width": 1916,
+    "height": 986
+  },
+  {
+    "file": "screenshots/malware/virustotal-result.jpeg",
+    "pdf_page": 49,
+    "figure": 55,
+    "caption": "VirusTotal file analysis",
+    "width": 1917,
+    "height": 904
+  },
+  {
+    "file": "screenshots/ssh-brute-force/active-response-config.png",
+    "source_document": "demossh.docx",
+    "image_order": 1,
+    "caption": "Active response config",
+    "width": 1324,
+    "height": 410
+  },
+  {
+    "file": "screenshots/ssh-brute-force/ssh-port-scan.png",
+    "source_document": "demossh.docx",
+    "image_order": 2,
+    "caption": "Ssh port scan",
+    "width": 667,
+    "height": 242
+  },
+  {
+    "file": "screenshots/ssh-brute-force/hydra-simulation.png",
+    "source_document": "demossh.docx",
+    "image_order": 3,
+    "caption": "Hydra simulation",
+    "width": 1082,
+    "height": 112
+  },
+  {
+    "file": "screenshots/ssh-brute-force/dashboard.png",
+    "source_document": "demossh.docx",
+    "image_order": 4,
+    "caption": "Dashboard",
+    "width": 2848,
+    "height": 1498
+  },
+  {
+    "file": "screenshots/ssh-brute-force/alert-detail.png",
+    "source_document": "demossh.docx",
+    "image_order": 5,
+    "caption": "Alert detail",
+    "width": 1022,
+    "height": 472
+  },
+  {
+    "file": "screenshots/ssh-brute-force/connectivity-check.png",
+    "source_document": "demossh.docx",
+    "image_order": 6,
+    "caption": "Connectivity check",
+    "width": 940,
+    "height": 291
+  },
+  {
+    "file": "screenshots/ssh-brute-force/iptables-drop.png",
+    "source_document": "demossh.docx",
+    "image_order": 7,
+    "caption": "Iptables drop",
+    "width": 1065,
+    "height": 355
+  },
+  {
+    "file": "screenshots/suricata/rule-path.jpeg",
+    "pdf_page": 41,
+    "figure": 32,
+    "caption": "rule path",
+    "width": 725,
+    "height": 124
+  },
+  {
+    "file": "screenshots/suricata/capture-interface.jpeg",
+    "pdf_page": 41,
+    "figure": 33,
+    "caption": "capture interface",
+    "width": 1345,
+    "height": 236
+  },
+  {
+    "file": "screenshots/suricata/agent-log-collection.jpeg",
+    "pdf_page": 41,
+    "figure": 34,
+    "caption": "agent log collection",
+    "width": 1214,
+    "height": 203
+  },
+  {
+    "file": "screenshots/suricata/elk-network-events.jpeg",
+    "pdf_page": 41,
+    "figure": 35,
+    "caption": "elk network events",
+    "width": 1919,
+    "height": 574
+  }
+]

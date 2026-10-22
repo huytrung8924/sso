@@ -1,0 +1,10 @@
+# Local caches and sensitive runtime material
+.DS_Store
+Thumbs.db
+__pycache__/
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.log
